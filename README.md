@@ -2,13 +2,7 @@
 
   <h1>Hello World! 👋</h1>
   <p>
-    I'm a budding developer on a journey of growth and discovery. Currently, I'm pursuing a <strong>Bachelor's degree in Computer Science</strong> at <strong>UNICID</strong> (University of the City of São Paulo), where I'm immersing myself in the fascinating world of technology.
-  </p>
-  <p>
-    As I venture into the realm of programming, I'm diving deep into <strong>Rust</strong>, exploring its powerful features and how it can transform the way we approach system-level programming. My passion lies in harnessing the potential of cutting-edge technologies to solve real-world problems and create innovative solutions.
-  </p>
-  <p>
-    Whether it's working on exciting new projects or learning about emerging technologies, I'm always eager to expand my knowledge and take on new challenges. Join me on this exciting journey as I continue to grow and contribute to the tech community!
+    I am Lucas Antonio, junior developer who is looking to get his hands dirty and learn the ropes of software development. I am currently majoring in Computer Science at UNICID (Universidade da Cidade de São Paulo) and so since its beginning, I have been living inside that technology universe. During each project and challenge I work on, my goal is to learn more about experimenting with different cutting-edge technologies and building new features.
   </p>
 
   <h1>Technology Stack 🖥️</h1>
