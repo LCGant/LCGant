@@ -8,9 +8,11 @@
   <h1>Technology Stack 🖥️</h1>
   
   <h3>Languages</h3>
-  <img src="https://img.shields.io/badge/Language-Python-%23000?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Language-Rust-%23000?style=flat&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Language-C-%23000?style=flat&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Language-Python-%2338a1db?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Language-Rust-%23000000?style=flat&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Language-C-%2300599c?style=flat&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Language-Go-%23000000?style=flat&logo=go&logoColor=white" alt="Golang">
+
   
   <h3>Database</h3>
   <img src="https://img.shields.io/badge/Database-MySQL-%23000?style=flat&logo=mysql&logoColor=white" alt="MySQL">
